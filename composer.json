@@ -1,0 +1,9 @@
+{
+    "name": "ophelie/website",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
